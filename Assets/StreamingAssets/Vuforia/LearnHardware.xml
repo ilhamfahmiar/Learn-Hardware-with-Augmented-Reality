@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WIRELESSCARD_AR" size="1.000000 1.004754" />
+    <ImageTarget name="WIRELESSANTENA_AR" size="1.000000 1.004754" />
+    <ImageTarget name="VIDEOCARD_AR" size="1.000000 1.004754" />
+    <ImageTarget name="ram_AR" size="1.000000 1.004754" />
+    <ImageTarget name="POWERSUPPLY_AR" size="1.000000 1.004754" />
+    <ImageTarget name="NICCARD_AR" size="1.000000 1.004754" />
+    <ImageTarget name="motherboard_AR" size="1.000000 1.004754" />
+    <ImageTarget name="Mouse_AR" size="1.000000 1.004754" />
+    <ImageTarget name="Monitor_AR" size="1.000000 1.004754" />
+    <ImageTarget name="KEYBOARD_AR" size="1.000000 1.004754" />
+    <ImageTarget name="heatsink_AR" size="1.000000 1.004754" />
+    <ImageTarget name="harddisk_AR" size="1.000000 1.004754" />
+    <ImageTarget name="DVD" size="1.000000 1.004754" />
+    <ImageTarget name="CPU_AR" size="1.000000 1.004754" />
+    <ImageTarget name="CASE_AR" size="1.000000 1.004754" />
+    <ImageTarget name="SMK2_AR" size="1.000000 1.004754" />
+  </Tracking>
+</QCARConfig>

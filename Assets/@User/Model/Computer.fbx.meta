@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 02b9f404cde86704ea4682582e8777bd
+timeCreated: 1537072672
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bottom Eject
+    100002: Botttom LED
+    100004: Circle
+    100006: Circle.001
+    100008: Circle.002
+    100010: //RootNode
+    100012: Cube
+    100014: Cube.001
+    100016: Cube.002
+    100018: Cube.003
+    100020: Cube.004
+    100022: Cube.005
+    100024: Point
+    100026: Point.001
+    100028: Power Button
+    100030: Reset Button
+    100032: Shell
+    100034: Shell.001
+    100036: Shell.002
+    100038: Shell.003
+    100040: Shell.004
+    100042: Shell.005
+    100044: Shell.006
+    100046: Shell.007
+    100048: Shell.008
+    100050: Shell.009
+    100052: Shell.010
+    100054: Shell.011
+    100056: Shell.012
+    100058: Shell.013
+    100060: Shell.014
+    100062: Shell.015
+    100064: Shell.016
+    100066: Text
+    100068: Text.001
+    100070: Text.002
+    100072: Text.003
+    100074: Top Eject
+    100076: Top LED
+    400000: Bottom Eject
+    400002: Botttom LED
+    400004: Circle
+    400006: Circle.001
+    400008: Circle.002
+    400010: //RootNode
+    400012: Cube
+    400014: Cube.001
+    400016: Cube.002
+    400018: Cube.003
+    400020: Cube.004
+    400022: Cube.005
+    400024: Point
+    400026: Point.001
+    400028: Power Button
+    400030: Reset Button
+    400032: Shell
+    400034: Shell.001
+    400036: Shell.002
+    400038: Shell.003
+    400040: Shell.004
+    400042: Shell.005
+    400044: Shell.006
+    400046: Shell.007
+    400048: Shell.008
+    400050: Shell.009
+    400052: Shell.010
+    400054: Shell.011
+    400056: Shell.012
+    400058: Shell.013
+    400060: Shell.014
+    400062: Shell.015
+    400064: Shell.016
+    400066: Text
+    400068: Text.001
+    400070: Text.002
+    400072: Text.003
+    400074: Top Eject
+    400076: Top LED
+    2100000: Material
+    2100002: Gold
+    2100004: Yellow Plastic Dark
+    2100006: Green Plastic
+    2100008: Black
+    2100010: Red Plastic
+    2100012: Dark Plastic
+    2100014: Metal
+    2100016: Green Metal
+    2100018: Green LED
+    2100020: Dark Metal
+    2100022: Yellowish Plastic
+    2100024: Grill
+    2100026: Yellow Plastic Mid
+    2100028: Black Plastic
+    2100030: Rear IO
+    2300000: Bottom Eject
+    2300002: Botttom LED
+    2300004: Circle
+    2300006: Circle.001
+    2300008: Circle.002
+    2300010: Cube
+    2300012: Cube.001
+    2300014: Cube.002
+    2300016: Cube.003
+    2300018: Cube.004
+    2300020: Cube.005
+    2300022: Power Button
+    2300024: Reset Button
+    2300026: Shell
+    2300028: Shell.001
+    2300030: Shell.002
+    2300032: Shell.003
+    2300034: Shell.004
+    2300036: Shell.005
+    2300038: Shell.006
+    2300040: Shell.007
+    2300042: Shell.008
+    2300044: Shell.009
+    2300046: Shell.010
+    2300048: Shell.011
+    2300050: Shell.012
+    2300052: Shell.013
+    2300054: Shell.014
+    2300056: Shell.015
+    2300058: Shell.016
+    2300060: Text
+    2300062: Text.001
+    2300064: Text.002
+    2300066: Text.003
+    2300068: Top Eject
+    2300070: Top LED
+    3300000: Bottom Eject
+    3300002: Botttom LED
+    3300004: Circle
+    3300006: Circle.001
+    3300008: Circle.002
+    3300010: Cube
+    3300012: Cube.001
+    3300014: Cube.002
+    3300016: Cube.003
+    3300018: Cube.004
+    3300020: Cube.005
+    3300022: Power Button
+    3300024: Reset Button
+    3300026: Shell
+    3300028: Shell.001
+    3300030: Shell.002
+    3300032: Shell.003
+    3300034: Shell.004
+    3300036: Shell.005
+    3300038: Shell.006
+    3300040: Shell.007
+    3300042: Shell.008
+    3300044: Shell.009
+    3300046: Shell.010
+    3300048: Shell.011
+    3300050: Shell.012
+    3300052: Shell.013
+    3300054: Shell.014
+    3300056: Shell.015
+    3300058: Shell.016
+    3300060: Text
+    3300062: Text.001
+    3300064: Text.002
+    3300066: Text.003
+    3300068: Top Eject
+    3300070: Top LED
+    4300000: Text.003
+    4300002: Cube.005
+    4300004: Cube.004
+    4300006: Cube.003
+    4300008: Cube.002
+    4300010: Circle.002
+    4300012: Circle.001
+    4300014: Text.002
+    4300016: Cube.001
+    4300018: Text.001
+    4300020: Shell.016
+    4300022: Circle
+    4300024: Text
+    4300026: Top LED
+    4300028: Bottom Eject
+    4300030: Reset Button
+    4300032: Shell
+    10800000: Point
+    10800002: Point.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
